@@ -81,7 +81,8 @@ Daya ||	Power (W)\
 
 ###  🚀 How to Run
 1.	Clone this repository:\
-   git clone https://github.com/raputra18/Solar-Power-MachineLearning.git
+   • _git clone https://github.com/raputra18/Solar-Power-MachineLearning.git_
+  	• _cd Solar-Power-MachineLearning_
 2. Install dependencies:\
    pip install -r requirements.txt 
 3. Open the notebook:\
