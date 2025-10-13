@@ -105,6 +105,11 @@ Daya ||	Power (W)\
 #### Rahmadi Putra Aji 
 #### Undergraduate Student – Instrumentation and Control Engineering (TRIK), Universitas Gadjah Mada
 #### 📍 Passionate about IoT, Control Systems, and Applied Machine Learning
-📧 rahmadi.putra.aji@mail.ugm.ac.id
+📫 rahmadi.putra.aji@mail.ugm.ac.id, | https://www.linkedin.com/in/rahmadiputraaji2001 
 
 
+## ⚖ License
+
+**This project is licensed under the MIT License.**\
+**You are free to use, modify, and distribute the code with proper attribution.
+**
