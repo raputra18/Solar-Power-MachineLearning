@@ -81,11 +81,11 @@ Daya ||	Power (W)\
 
 ###  🚀 How to Run
 1.	Clone this repository:\
-   git clone https://github.com/<raputra18>/Solar-Power-MachineLearning.git
+   git clone https://github.com/raputra18/Solar-Power-MachineLearning.git
 2. Install dependencies:\
    pip install -r requirements.txt 
 3. Open the notebook:\
-   notebook/solar_power_prediction.ipynb
+   notebooks/model_training.ipynb
 4. Uploud your data_putra.csv file inside the /data/folder if not already included. 
 5. Run all cells in Google Colab or Jupyter Notebook to see results and visualizations.
 
