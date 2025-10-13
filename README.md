@@ -107,6 +107,7 @@ Daya ||	Power (W)\
 #### 📍 Passionate about IoT, Control Systems, and Applied Machine Learning
 📫 rahmadi.putra.aji@mail.ugm.ac.id, | https://www.linkedin.com/in/rahmadiputraaji2001 
 
+⸻⸻⸻⸻⸻⸻⸻
 
 ## ⚖ License
 
