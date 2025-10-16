@@ -1,7 +1,9 @@
 <div align= "center">
+   
 ![Python](https://img.shields.io/badge/Python-3.12.12-blue)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.6.1-orange)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green)
+
 </div>
 
 # 🌞 Solar Power Prediction using LDR Sensor Data and Random Forest
@@ -72,8 +74,12 @@ Daya ||	Power (W)\
 •	Predicted vs Actual Power\
 •	Feature Importance Graph\
 •	Time-series comparison (first 100 samples)
-![Predicted vs Actual Power](notebooks/visualization_sample.png)\
-_(Sample visualizations from the trained model-actual vs predicted power curve.)_
+<div align= "center">
+   
+   ![Predicted vs Actual Power](notebooks/visualization_sample.png)\
+   _(Sample visualizations from the trained model-actual vs predicted power curve.)_
+
+</div>
 
 (_All visualizations are automatically generated in the notebook_.)
 
