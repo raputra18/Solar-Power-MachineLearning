@@ -1,18 +1,20 @@
+<div align= "center">
 ![Python](https://img.shields.io/badge/Python-3.12.12-blue)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.6.1-orange)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green)
-
+</div>
 
 # 🌞 Solar Power Prediction using LDR Sensor Data and Random Forest
 
 ### 📘 Overview
 
 This project aims to predict the output power (Watt) of a solar panel concentrator system using machine learning.
-The data was collected from an IOT-based vertical solar concentrator that uses LDR sensors, ESP32-Dev-Kit, and viltage/current measurements.
+The data was collected from an IOT-based vertical solar concentrator that uses LDR sensors, ESP32-Dev-Kit, and voltage/current measurements.
 
 A Random Forest Regressor model is trained to predict solar panel power output with very high accuracy.
-This work demonstrates how sensor-based solar systems can be integrated with data analitycs for intelligent performance prediction
+This work demonstrates how sensor-based solar systems can be integrated with data analytics for intelligent performance prediction
 
+**This research demonstrates a data-driven approach for optimizing solar energy systems through intelligent prediction models.**
 ⸻⸻⸻
 
 ### ⚙ Dataset Description
@@ -60,7 +62,7 @@ Daya ||	Power (W)\
 ⸻⸻⸻
 
 ### 📊 Results & Insights
-•	The model predics power output with **very high accuracy**.\
+•	The model predicts power output with **very high accuracy**.\
 •	The most influential features are **voltage** and **upper LDR sensors**.\
 •	This model can be integrated into **real time solar monitoring system** for power estimation and performance analysis.
 
@@ -70,7 +72,8 @@ Daya ||	Power (W)\
 •	Predicted vs Actual Power\
 •	Feature Importance Graph\
 •	Time-series comparison (first 100 samples)
-![Predicted vs Actual Power](notebooks/visualization_sample.png)
+![Predicted vs Actual Power](notebooks/visualization_sample.png)\
+_(Sample visualizations from the trained model-actual vs predicted power curve.)_
 
 (_All visualizations are automatically generated in the notebook_.)
 
@@ -93,7 +96,7 @@ Daya ||	Power (W)\
    pip install -r requirements.txt 
 3. Open the notebook:\
    ➡ [Open Model Training Notebook](notebooks/model_training.ipynb)
-4. Uploud your data_putra.csv file inside the /data/folder if not already included. 
+4. Upload your data_putra.csv file inside the /data/folder if not already included. 
 5. Run all cells in Google Colab or Jupyter Notebook to see results and visualizations.
 
 ⸻⸻⸻
