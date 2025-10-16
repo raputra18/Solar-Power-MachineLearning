@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.12.12-blue)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1.6.1-orange)
+![License: MIT](https://img.shields.io/badge/License-MIT-green)
+
+
 # 🌞 Solar Power Prediction using LDR Sensor Data and Random Forest
 
 ### 📘 Overview
@@ -61,10 +66,11 @@ Daya ||	Power (W)\
 
 ⸻⸻⸻
 
-### 🖼 Visualizations
+### 📈 Visualizations
 •	Predicted vs Actual Power\
 •	Feature Importance Graph\
 •	Time-series comparison (first 100 samples)
+![Predicted vs Actual Power](notebooks/visualization_sample.png)
 
 (_All visualizations are automatically generated in the notebook_.)
 
@@ -86,7 +92,7 @@ Daya ||	Power (W)\
 2. Install dependencies:\
    pip install -r requirements.txt 
 3. Open the notebook:\
-   notebooks/model_training.ipynb
+   ➡ [Open Model Training Notebook](notebooks/model_training.ipynb)
 4. Uploud your data_putra.csv file inside the /data/folder if not already included. 
 5. Run all cells in Google Colab or Jupyter Notebook to see results and visualizations.
 
