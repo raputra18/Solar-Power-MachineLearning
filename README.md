@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/id/thumb/9/9f/Logo_Universitas_Gadjah_Mada.svg/512px-Logo_Universitas_Gadjah_Mada.svg.png" width="120"/>
+  <img src="logo_ugm.png" width="120"/>
 </p>
 
 
@@ -8,8 +8,8 @@
 <sub>Machine Learning | IoT | Solar Energy | Random Forest Regressor</sub>
    
 ![Python](https://img.shields.io/badge/Python-3.12.12-blue)
-![NumPy](https://img.shields.io/badge/NumPy-1.26.4-blue)
-![Pandas](https://img.shields.io/badge/Pandas-2.2.3-darkgreen)
+![NumPy](https://img.shields.io/badge/NumPy-2.0.2-blue)
+![Pandas](https://img.shields.io/badge/Pandas-2.2.2-darkgreen)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.6.1-orange)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green)
 ![Dataset](https://img.shields.io/badge/Dataset-450_samples-lightgrey)
