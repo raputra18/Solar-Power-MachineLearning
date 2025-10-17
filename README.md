@@ -114,15 +114,17 @@ the system stays fixed.
 ---
 
 ###  🚀 How to Run
-1.	Clone this repository:\
-   • _git clone https://github.com/raputra18/Solar-Power-MachineLearning.git_
-  	• _cd Solar-Power-MachineLearning_
-2. Install dependencies:\
+1.	Clone this repository:
+    ```bash
+  	• git clone https://github.com/raputra18/Solar-Power-MachineLearning.git
+  	• cd Solar-Power-MachineLearning
+2. Install dependencies:
+   ```bash
    pip install -r requirements.txt 
 3. Open the notebook:\
    ➡ [Open Model Training Notebook](notebooks/model_training.ipynb)
-4. Upload your **data_putra.csv** file inside the /data/folder if not already included. 
-5. Run all cells in Google Colab or Jupyter Notebook to see results and visualizations.
+5. Upload your **data_putra.csv** file inside the /data/folder if not already included. 
+6. Run all cells in Google Colab or Jupyter Notebook to see results and visualizations.
 
 ---
 
